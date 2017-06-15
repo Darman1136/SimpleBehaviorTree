@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+SimpleBehaviorTree/[Ll]ibrary/
+SimpleBehaviorTree/[Tt]emp/
+SimpleBehaviorTree/[Oo]bj/
+SimpleBehaviorTree/[Bb]uild/
+SimpleBehaviorTree/[Bb]uilds/
+SimpleBehaviorTree/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
